@@ -1,4 +1,3 @@
-
 # Abbas Ali Aloc
  ![](RackMultipart20230816-1-2pfw4t_html_d9e32979dbb3af27.gif)
 
@@ -10,11 +9,11 @@ Phone: +971 (50) 5505491
 
 Dubai, UAE
 
-Summary
+***Summary***
 
 Highly experienced Principal Cloud Solution Architect with over 25 years of expertise in various Microsoft technologies. Recognized as a trusted advisor by customers and executives, delivering exceptional value and spearheading significant growth in deliverables. Proven track record in stakeholder and team management, business metrics, and aligning technology solutions with customer business goals. Passionate about driving positive change and seeking opportunities to make transformative impacts in technology-driven environments.
 
-Professional Experience
+***Professional Experience***
 
 **Principal Cloud Solution Architect, Microsoft Gulf, Dubai, UAE, 2017-present**
 
@@ -42,7 +41,7 @@ Professional Experience
 - Provided consulting services, specializing in service level management and TQM.
 - Assisted in infrastructure projects, defining necessary products for customers.Consulting Sales.
 
-Education
+***Education***
 
 - **Master of Science in Industrial Engineering**
 
@@ -56,7 +55,7 @@ Management Information Systems **, Boğaziçi University** , 2002
 
 **The American Robert College** of Istanbul; 1994
 
-Skills
+***Skills***
 
 - **Data/AI** : Full Azure Data Stack, On-Prem SQL
 - **Cloud Platform:** Windows Server, Virtualization, Private Cloud
@@ -70,20 +69,20 @@ Skills
 - **Technical Excellence** : Deep technical knowledge, problem-solving, and sound business acumen.
 - **Trainings Received:** TOGAF, ITSM, ITIL, MOF, PMP
 
-Awards
+***Awards***
 
 - Gold Star Performance Award (multiple years) given by Microsoft
 - CPE Heroes Award (multiple years) given by Microsoft
 - Better together Award given by Microsoft
 - Various Accolades collected over the years.
 
-Certifications
+***Certifications***
 
 - AZ-533 Implementing Microsoft Azure Infrastructure Solutions
 - DP-200 Implementing an Azure Data Solution
 - DP-201 Designing an Azure Data Solution
 
-Achievements
+***Achievements***
 
 - **130% Year over Year Growth** of Mission Critical Business Data/AI workstream delivery targets for 4 consecutive years
 - **Most number of SQL Server Health Checks** delivered per year for 3 consecutive years; World Wide as a SQL Premier Field Engineer - **400 distinct customer deliveries**
