@@ -11,7 +11,7 @@ Dubai, UAE
 
 ***Summary***
 
-Highly experienced Principal Cloud Solution Architect with over 25 years of expertise in various Microsoft technologies. Recognized as a trusted advisor by customers and executives, delivering exceptional value and spearheading significant growth in deliverables. Proven track record in stakeholder and team management, business metrics, and aligning technology solutions with customer business goals. Passionate about driving positive change and seeking opportunities to make transformative impacts in technology-driven environments.
+Highly experienced Principal Cloud Solution Architect with over 25 years of expertise in various Microsoft technologies. Recognized as a trusted advisor by customers and executives, delivering exceptional value and spearheading significant growth in deliverables. Proven track record in stakeholder and team management, business metrics, and aligning technology solutions with customer business goals. Passionate about driving positive change and seeking opportunities to make transformative impacts in technology-driven environments. Managing a workstream and business with 11 Cloud Solution Architects and 20 Million USD revenue with success. Leading a worldwide center of excellence team of 200+ engineers for business development. 
 
 ***Professional Experience***
 
